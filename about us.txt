@@ -1,0 +1,18 @@
+In Online Book store customer can purchase books online.Online Bookstore can be useful to sell books on the internet.Customers can purchase or get all books without going through a bookstore.
+
+In our Online Book store  customer can purchase books online.Here Customers can browse the catalogue by the catagories.Through a web browser the customers can search for a book by its name,author or catagories.Users can add to the shopping cart and finally purchase the books.They can also update the shopping cart by changing quantity and remove books from cart.When the user clicks on the Add to cart button,the items will add in the cart.Customer can go to the cart and continue his procedure to buy a desired book.They can buy multiple books.When the user clicks on check out button,he will follow the another step to place his order by giving his infomation like phone number,email,address etc.Customer Can create accounts in the bookstore.Each account contails customer profile information:Name,email,phone number,birthdate,gender.After log in,user can edit profile information and profile picture.They can also change password after log in.They can make their own account and log in any time,and log out also.Customer can also contact to the Admin by sending message.We have an option for search on every page.The user can search any book there.
+There is also an option for logout after user sign in.When user clicks on it ,they will log out from their profile
+
+
+
+
+Admin can login into the system using his username and password from database,Admin can do:
+
+1.insert any books(Upload new books frequently).
+2.Remove books
+3.See all books
+4.Search books by catagories and find all information
+5.See All User list,details and can remove
+6.Can see customer message
+7.View sales and information about book and buyer
+8.Logout from the Account

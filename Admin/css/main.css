@@ -1,0 +1,566 @@
+#header
+{
+width:100%;
+height:100px;
+
+}
+.titleadv{
+
+
+margin-top:100px;}
+.titleadv1{
+
+
+margin-top:60px;}
+
+.buy3{
+
+
+height:50px;
+width:200px;}
+
+.buy4{
+
+
+height:30px;
+width:300px;}
+.logo{
+height:100px;width:200px;}
+
+.footer { 
+position: fixed; 
+padding: 10px 10px 0px 10px; 
+bottom: 0; 
+width: 100%; 
+/* Height of the footer*/  
+height: 40px; 
+background: grey; 
+} 
+.btn3 {
+background-color: Transparent;
+background-repeat:no-repeat;
+border: none;
+cursor:pointer;
+overflow: hidden;
+outline:none;
+}
+.example_c {
+color: Black;
+text-style:bold;
+text-transform: uppercase;
+text-decoration: none;
+background-color: rgb(255, 255, 255,.8);
+padding: 20px;
+border: 4px solid #494949 !important;
+display: inline-block;
+transition: all 0.4s ease 0s;
+
+}
+
+
+.example {
+color: Black;
+text-transform: uppercase;
+text-decoration: none;
+margin-top:50px;
+padding:5px;
+background-color: rgb(255, 255, 255,0.8);
+
+border: 4px solid #494949 !important;
+display: inline-block;
+transition: all 0.4s ease 0s;
+
+}
+.booktd2
+{    color:white;
+width:400px;
+height:100px;
+
+}
+
+.tabledesign1
+{
+background-color:#b2beb5;
+
+}
+.tabledesign2
+{
+
+background-color: rgb(0, 0, 0,0.6);
+
+}
+.booklist{
+margin-left:60px;
+color:white;
+
+
+}
+.img{
+
+padding:10px;
+height:300px; 
+width:200px;	
+
+}
+
+.input{
+width:200px;height:40px;border-radius:20px;
+
+}
+.login1{
+width:100px;
+height:40px;
+border-radius:20px;}
+
+.td1 { 
+color:white;
+width:200px;
+height:100px;
+}
+.td3 { 
+color:black;
+width:200px;
+height:100px;
+}
+.td6 { 
+color:white;
+width:200px;
+height:100px;
+}
+.td5 { 
+color:white;
+width:400px;
+height:100%;
+}
+.td2{
+width:200px;
+height:50px;
+}
+.input1{
+width:100px;height:40px;border-radius:20px;
+}
+.buy
+{    color:white;
+width:200px;
+height:50px;
+
+}
+
+.booktd
+{    color:black;
+width:200px;
+height:50px;
+
+}
+
+
+.profile{
+width:300px; 
+height:100px;}
+.admin
+{
+color:white;
+padding:10px;"	
+}
+
+.msgdes{
+
+padding:5px; color:white;
+}
+.message{
+
+color:Black;
+margin-top:50px;
+margin-bottom:50px;
+
+}
+.contact
+{
+margin-top:100px;
+height:700px;
+background-color: rgba(0, 0, 0);
+padding: 15px;
+
+}
+
+.msimg{
+width:100px;height:100px;padding:10px}
+.navbar
+{
+background-color: rgba(0, 0, 0);	
+}
+.home{
+height:400px;
+width:400px;}
+.title
+{
+margin-left:60px;
+color:Black;
+font-style: oblique;
+}
+.catagories{
+
+
+height:330px;
+width:330px;}
+.catagories1{
+
+
+
+height:300px; 
+width:200px;}
+.cattitle{
+color:Black;
+font-style: oblique;
+padding:40px;
+
+}
+.pic{
+
+margin:10px;
+float:left;
+
+background:#FFFFFF;
+}
+.desc{
+padding:15px;
+text-align:center;
+text-align:center;
+background:#003C7A;
+}
+.desc1{
+padding:15px;
+
+text-align:center;
+background:#000000;
+}
+
+.Roundimg
+{
+background-color: rgba(0, 0, 0);
+color:white;	
+}
+.catt
+{
+
+color:white;
+font-style: oblique;
+}
+.catt2
+{
+
+color:black;
+font-style: oblique;
+}
+.title1
+{
+margin:30px;
+color:Black;
+font-style: oblique;
+}
+
+.booktd1{
+width:180px;
+height:30px;
+
+}
+.centered {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.title3
+{
+margin:30px;
+color:white;
+font-style: oblique;
+}
+.available{
+background-color:blue;
+padding:10px;}
+
+.about{
+padding:15px;}
+.cat{
+text-align:center;
+color:Black;
+padding-top:20px;
+}
+.catt1{
+
+color:white;	
+}
+#pro{
+width:250px ;height:250px;}
+.des{
+color:black; 
+padding: 100px;}
+.onbook{
+color: #FFFFFF;	
+font-style: oblique;
+padding:30px;
+}
+.pictures
+{
+width: 100%;
+height:220px; 
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: auto;
+
+
+}
+.navbar
+{
+background-color: #000000;	
+}
+.nav-item {
+margin-right: 70px;
+
+}
+.body
+{
+background-repeat:no-repeat;
+height:100%; 
+background-size: cover;
+color:black;
+
+}
+.title4
+{
+padding-top:40px;	
+}
+#round
+{
+
+font-style: oblique;
+height:500px;
+width:500px;
+margin:100px;	
+}
+.title5{
+padding-top:20px;
+}
+.tabledesign
+{
+
+color:white;
+background-color:rgb(0, 0, 0);
+
+}
+.bookinp
+{
+
+width:200px;
+margin-bottom:20px;
+margin-top:20px;
+}
+.list{
+color:white;
+
+}
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+margin-top:200px;
+height:100%;
+width:100%;
+position:absolute;
+}
+.select{
+width:600px;
+padding:5px;}
+
+.background{
+width: 100%;
+height: 90vh;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;}
+
+.background3{
+
+background-repeat:no-repeat;
+height:100%;
+background-size: cover;
+color:black;} 
+}
+.background1{
+
+background-repeat:no-repeat;
+background-size: cover;
+height:200px;  
+width:100%;}
+.btn8
+{
+background-color:green;	
+}
+.qty
+{
+
+color:white;
+
+}
+
+.bookimg
+{
+margin-top:50px;	
+color:black;
+
+}
+.titlecart{
+
+padding:200px;
+
+}
+.bookimg1
+{
+margin-top:50px;	
+color:white;
+background-color:rgb(0, 0, 0,0.7);	
+}
+.welcome
+
+{
+
+text-align:center;
+Padding:200px;
+color:black;
+font-style: oblique;
+}
+
+.desi{
+
+font-style: bold;
+color:white;	
+}
+.intro4 
+{
+padding:10px;
+}
+.btn6
+{
+color:black;
+}
+.btn1
+{
+padding:10px;
+background-color:rgb(0,128,0,0.6);
+margin-top:30px;
+}
+.btn2
+{
+background-color:blue;
+margin-top:30px;
+}
+.btn4{
+
+background-color:rgb(0,128,0,0.4);
+
+}	
+.nav{
+width:100%;
+height:50px;
+color:white;
+}
+.online{
+
+text-align:center;
+
+margin-top:30px;
+
+
+}
+
+
+hr.design {
+border: 2px solid  ;
+border-radius: 2px;
+color:rgb(0,0,0,0.6);
+
+}
+.ok{
+width:100%;
+}
+ul li{
+list-style:none;
+float:left;
+
+height:50px;
+line-height:50px;
+text-align:center;
+
+}
+.pic{
+float:left;
+}
+a{
+
+color:white;
+font-style: oblique;}
+
+.search
+{ width:200px;
+height:200px;
+}
+#container{
+width:100%;
+height:auto;
+background:none;
+}
+#left{
+width:60%;
+height:200px;
+float:left;
+
+padding-top:100px;
+
+}
+#right{
+width:40%;
+height:100%;
+float:left;
+}
+
+.right{
+
+width:40%;
+height:200px;
+float:left;
+padding-top:100px;
+}
+#bol{
+padding-top:80px;
+width:300px;
+height:300px;
+border-radius: 50%;
+background-color:black;
+}
+#bol1{
+
+width:200px;
+height:200px;
+background-color:red;
+margin-left:650px;
+}
+
+
+
+.ground{
+
+width: 100%;
+height: 90vh;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;}
